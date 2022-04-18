@@ -1,5 +1,5 @@
 # SPR-defect-detection-code
-## or create a new repository on the command line
+or create a new repository on the command line
 echo "# SPR-defect-detection-code" >> README.md
 git init
 git add README.md
