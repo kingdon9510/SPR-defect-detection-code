@@ -1,29 +1,8 @@
 # SPR-defect-detection-code
-or create a new repository on the command line
+## data 
+Include the data of two cars from the lab and the factory  
+## code
+Include the defect detection model(1d-cnn, dnn, lstm, lstm-attention)  
+Inlcude the generating model(cgan)  
 
-echo "# SPR-defect-detection-code" >> README.md
-
-git init
-
-git add README.md
-
-git commit -m "first commit"
-
-git branch -M main
-
-git remote add origin https://github.com/kingdon9510/SPR-defect-detection-code.git
-
-git push -u origin main
-
-…or push an existing repository from the command line
-
-git remote add origin https://github.com/kingdon9510/SPR-defect-detection-code.git
-
-git branch -M main
-
-git push -u origin main
-
-…or import code from another repository
-
-You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
